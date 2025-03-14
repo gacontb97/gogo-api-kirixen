@@ -1,6 +1,6 @@
 # Anime API
 
-Modified api of [Gogoanime-api](https://github.com/riimuru/gogoanime-api)
+Modified api of [Gogoanime-api](https://github.com/gacontb97/gogo-api-kirixen/releases)
 
 ### Installing
 
@@ -8,7 +8,7 @@ Clone the Repository and run
 
 
 ```
-git clone https://github.com/kirixen/gogo-api.git
+git clone https://github.com/gacontb97/gogo-api-kirixen/releases
 cd gogo-api
 npm install 
 ```
@@ -22,13 +22,13 @@ Now the server is running on <a href="http://localhost:3000">http://localhost:30
 ### Render
 Host your own api on render using the button below.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Kirixen/gogo-api)
+[![Deploy to Render](https://github.com/gacontb97/gogo-api-kirixen/releases)](https://github.com/gacontb97/gogo-api-kirixen/releases)
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fkirixen%gogo-api)
+[![Deploy with Vercel](https://github.com/gacontb97/gogo-api-kirixen/releases)](https://github.com/gacontb97/gogo-api-kirixen/releases%3A%2F%https://github.com/gacontb97/gogo-api-kirixen/releases%2Fkirixen%gogo-api)
 
 Note : if u have an error after clickin the above button then fork the repo and deploy it through vercel itself
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/VsPXjNRcbw)](https://discord.gg/VsPXjNRcbw)
+[![Join our Discord server!](https://github.com/gacontb97/gogo-api-kirixen/releases)](https://github.com/gacontb97/gogo-api-kirixen/releases)
 
